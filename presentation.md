@@ -9,7 +9,6 @@ and Gabriel
 2. Use identified variables to perform logistic regression
 
 # Lasso
-Yeehaw
 1. Performed Cross Validation to select the optimal parameter
 2. Ran Lasso
 
