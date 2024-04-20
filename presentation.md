@@ -19,6 +19,6 @@ Yeehaw
 2. Get the predictions for test dataset
 
 # Python
-Pivoting was involved
-Binary and encoded variables (removed ordinality and/or cardinality); our downfall
+1. Pivoting was involved
+2. Binary and encoded variables (removed ordinality and/or cardinality); our downfall
 
