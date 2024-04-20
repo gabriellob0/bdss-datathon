@@ -5,10 +5,13 @@
 and Gabriel
 
 # Lasso
+Yeehaw
 
 
-# Logit
-
+# Logistic (Logit)
+Odds ratio
 
 # Python
+Pivoting was involved
+Binary and encoded variables (removed ordinality and/or cardinality); our downfall
 
